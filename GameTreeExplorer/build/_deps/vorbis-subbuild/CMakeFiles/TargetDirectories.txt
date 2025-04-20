@@ -1,0 +1,3 @@
+D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate.dir
+D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/vorbis-subbuild/CMakeFiles/edit_cache.dir
+D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/vorbis-subbuild/CMakeFiles/rebuild_cache.dir
