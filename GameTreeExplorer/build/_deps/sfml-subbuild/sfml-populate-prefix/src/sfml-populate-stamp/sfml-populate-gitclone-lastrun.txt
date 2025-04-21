@@ -3,9 +3,9 @@
 # No other meaning or use of this file is supported.
 
 method=git
-command=C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitclone.cmake
-source_dir=D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-src
-work_dir=D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps
+command=C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitclone.cmake
+source_dir=D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-src
+work_dir=D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps
 repository=https://github.com/SFML/SFML.git
 remote=origin
 init_submodules=TRUE

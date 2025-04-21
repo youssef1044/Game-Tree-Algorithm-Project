@@ -1,6 +1,6 @@
 CMakeFiles/main.dir/src/objects/Algo.cpp.obj: \
- D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\GameTreeExplorer\src\objects\Algo.cpp \
- D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\GameTreeExplorer\src\objects\Algo.h \
+ D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\src\objects\Algo.cpp \
+ D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\src\objects\Algo.h \
  C:/msys64/ucrt64/include/c++/13.2.0/queue \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/requires_hosted.h \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -69,8 +69,8 @@ CMakeFiles/main.dir/src/objects/Algo.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_stack.h \
  C:/msys64/ucrt64/include/c++/13.2.0/utility \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_relops.h \
- D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\GameTreeExplorer\src\objects\GameSate.h \
- D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\GameTreeExplorer\src\objects\Player.h \
+ D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\src\objects\GameSate.h \
+ D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\src\objects\Player.h \
  C:/msys64/ucrt64/include/c++/13.2.0/iostream \
  C:/msys64/ucrt64/include/c++/13.2.0/ostream \
  C:/msys64/ucrt64/include/c++/13.2.0/ios \
@@ -153,47 +153,47 @@ CMakeFiles/main.dir/src/objects/Algo.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/istream \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc \
- D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\GameTreeExplorer\src\objects\Token.h \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Export.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Config.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/CircleShape.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Shape.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Color.hpp \
+ D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\src\objects\Token.h \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Export.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Config.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/CircleShape.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Shape.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Color.hpp \
  C:/msys64/ucrt64/include/c++/13.2.0/cstdint \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
  C:/msys64/ucrt64/include/stdint.h \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Color.inl \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Drawable.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Rect.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Angle.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Angle.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Color.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Drawable.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Rect.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Angle.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Angle.inl \
  C:/msys64/ucrt64/include/c++/13.2.0/cassert \
  C:/msys64/ucrt64/include/assert.h \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
  C:/msys64/ucrt64/include/c++/13.2.0/optional \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/enable_special_members.h \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Rect.inl \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/RenderStates.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/CoordinateType.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/StencilMode.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Transform.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Rect.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/RenderStates.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/CoordinateType.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/StencilMode.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Transform.hpp \
  C:/msys64/ucrt64/include/c++/13.2.0/array \
  C:/msys64/ucrt64/include/c++/13.2.0/compare \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Transform.inl \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Transformable.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/VertexArray.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Vertex.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/ConvexShape.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Font.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Glyph.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Texture.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Transform.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Transformable.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/VertexArray.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Vertex.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/ConvexShape.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Font.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Glyph.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Texture.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
  C:/msys64/ucrt64/include/c++/13.2.0/memory \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_tempbuf.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_raw_storage_iter.h \
@@ -238,55 +238,55 @@ CMakeFiles/main.dir/src/objects/Algo.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/hashtable_policy.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/node_handle.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/erase_if.h \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Image.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/RectangleShape.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/RenderTarget.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/View.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/RenderTexture.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/RenderWindow.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Window.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/WindowEnums.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Time.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Image.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/RectangleShape.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/RenderTarget.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/View.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/RenderTexture.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/RenderWindow.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Window.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/WindowEnums.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Time.hpp \
  C:/msys64/ucrt64/include/c++/13.2.0/chrono \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Time.inl \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/WindowBase.inl \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Event.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Joystick.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/String.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Utf.inl \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/String.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Time.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/WindowBase.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Event.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Joystick.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/String.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Utf.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/String.inl \
  C:/msys64/ucrt64/include/c++/13.2.0/iterator \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stream_iterator.h \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Keyboard.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Mouse.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Sensor.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Vector3.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Vector3.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Keyboard.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Mouse.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Sensor.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Vector3.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Vector3.inl \
  C:/msys64/ucrt64/include/c++/13.2.0/variant \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Event.inl \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Shader.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Glsl.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Glsl.inl \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Sprite.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Text.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Clipboard.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Context.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Touch.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Err.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Exception.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/FileInputStream.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/MemoryInputStream.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Sleep.hpp \
- D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\GameTreeExplorer\src\objects\GameBoard.h
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Event.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Shader.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Glsl.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Glsl.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Sprite.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/Text.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Clipboard.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Context.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Touch.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Exception.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/FileInputStream.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/MemoryInputStream.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Sleep.hpp \
+ D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\src\objects\GameBoard.h

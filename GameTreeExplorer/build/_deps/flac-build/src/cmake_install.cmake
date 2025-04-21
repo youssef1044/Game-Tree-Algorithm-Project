@@ -1,4 +1,4 @@
-# Install script for directory: D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/flac-src/src
+# Install script for directory: D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/flac-src/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/flac-build/src/libFLAC/cmake_install.cmake")
+  include("D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/flac-build/src/libFLAC/cmake_install.cmake")
 
 endif()
 

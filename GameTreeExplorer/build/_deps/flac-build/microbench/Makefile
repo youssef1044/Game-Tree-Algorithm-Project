@@ -56,10 +56,10 @@ RM = "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Common
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer"
+CMAKE_SOURCE_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build"
+CMAKE_BINARY_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -67,7 +67,7 @@ CMAKE_BINARY_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\
 # Special rule for the target package
 package: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Run CPack packaging tool..."
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cpack.exe" --config ./CPackConfig.cmake
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cpack.exe" --config ./CPackConfig.cmake
 .PHONY : package
 
 # Special rule for the target package
@@ -77,7 +77,7 @@ package/fast: package
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Run CPack packaging tool for source..."
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cpack.exe" --config ./CPackSourceConfig.cmake "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/CPackSourceConfig.cmake"
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cpack.exe" --config ./CPackSourceConfig.cmake "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/CPackSourceConfig.cmake"
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -151,14 +151,14 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(CMAKE_COMMAND) -E cmake_progress_start "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\CMakeFiles" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\flac-build\microbench\\CMakeFiles\progress.marks"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/flac-build/microbench/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\CMakeFiles" 0
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(CMAKE_COMMAND) -E cmake_progress_start "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\CMakeFiles" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\flac-build\microbench\\CMakeFiles\progress.marks"
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/flac-build/microbench/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/flac-build/microbench/clean
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/flac-build/microbench/clean
 .PHONY : clean
 
 # The main clean target
@@ -167,22 +167,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/flac-build/microbench/preinstall
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/flac-build/microbench/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/flac-build/microbench/preinstall
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/flac-build/microbench/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/rule:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/rule
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/rule
 .PHONY : _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/rule
 
 # Convenience name for target.
@@ -191,7 +191,7 @@ benchmark_residual: _deps/flac-build/microbench/CMakeFiles/benchmark_residual.di
 
 # fast build rule for target.
 benchmark_residual/fast:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/build
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/build
 .PHONY : benchmark_residual/fast
 
 benchmark_residual.obj: benchmark_residual.c.obj
@@ -199,7 +199,7 @@ benchmark_residual.obj: benchmark_residual.c.obj
 
 # target to build an object file
 benchmark_residual.c.obj:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/benchmark_residual.c.obj
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/benchmark_residual.c.obj
 .PHONY : benchmark_residual.c.obj
 
 benchmark_residual.i: benchmark_residual.c.i
@@ -207,7 +207,7 @@ benchmark_residual.i: benchmark_residual.c.i
 
 # target to preprocess a source file
 benchmark_residual.c.i:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/benchmark_residual.c.i
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/benchmark_residual.c.i
 .PHONY : benchmark_residual.c.i
 
 benchmark_residual.s: benchmark_residual.c.s
@@ -215,7 +215,7 @@ benchmark_residual.s: benchmark_residual.c.s
 
 # target to generate assembly for a file
 benchmark_residual.c.s:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/benchmark_residual.c.s
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/benchmark_residual.c.s
 .PHONY : benchmark_residual.c.s
 
 util.obj: util.c.obj
@@ -223,7 +223,7 @@ util.obj: util.c.obj
 
 # target to build an object file
 util.c.obj:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/util.c.obj
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/util.c.obj
 .PHONY : util.c.obj
 
 util.i: util.c.i
@@ -231,7 +231,7 @@ util.i: util.c.i
 
 # target to preprocess a source file
 util.c.i:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/util.c.i
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/util.c.i
 .PHONY : util.c.i
 
 util.s: util.c.s
@@ -239,7 +239,7 @@ util.s: util.c.s
 
 # target to generate assembly for a file
 util.c.s:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/util.c.s
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(MAKE) $(MAKESILENT) -f _deps\flac-build\microbench\CMakeFiles\benchmark_residual.dir\build.make _deps/flac-build/microbench/CMakeFiles/benchmark_residual.dir/util.c.s
 .PHONY : util.c.s
 
 # Help Target
@@ -274,6 +274,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

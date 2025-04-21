@@ -1,4 +1,4 @@
-# Install script for directory: D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/flac-src/src/libFLAC
+# Install script for directory: D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/flac-src/src/libFLAC
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,6 +38,6 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-build/lib/libFLACd.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-build/lib/libFLACd.a")
 endif()
 

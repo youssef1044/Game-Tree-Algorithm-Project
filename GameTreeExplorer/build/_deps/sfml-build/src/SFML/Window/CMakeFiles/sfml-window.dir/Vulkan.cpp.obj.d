@@ -1,8 +1,8 @@
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj: \
- D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\Window\Vulkan.cpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Config.hpp \
+ D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\Window\Vulkan.cpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Config.hpp \
  C:/msys64/ucrt64/include/c++/13.2.0/vector \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/requires_hosted.h \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -75,5 +75,5 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj: \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
  C:/msys64/ucrt64/include/errno.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/std_abs.h \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/src/SFML/Window/VulkanImpl.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/src/SFML/Window/VulkanImpl.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp

@@ -1,12 +1,12 @@
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj: \
- D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\Window\Win32\JoystickImpl.cpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/src/SFML/Window/JoystickImpl.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Config.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Joystick.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/String.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
+ D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\Window\Win32\JoystickImpl.cpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/src/SFML/Window/JoystickImpl.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Config.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Joystick.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/String.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
  C:/msys64/ucrt64/include/c++/13.2.0/array \
  C:/msys64/ucrt64/include/c++/13.2.0/compare \
  C:/msys64/ucrt64/include/c++/13.2.0/initializer_list \
@@ -150,15 +150,15 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.c
  C:/msys64/ucrt64/include/c++/13.2.0/cstdint \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
  C:/msys64/ucrt64/include/stdint.h \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Utf.inl \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/String.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Utf.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/String.inl \
  C:/msys64/ucrt64/include/c++/13.2.0/iterator \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stream_iterator.h \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/src/SFML/System/EnumArray.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/src/SFML/System/EnumArray.hpp \
  C:/msys64/ucrt64/include/c++/13.2.0/cassert \
  C:/msys64/ucrt64/include/assert.h \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/src/SFML/System/Win32/WindowsHeader.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/src/SFML/System/Win32/WindowsHeader.hpp \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/sdkddkver.h \
  C:/msys64/ucrt64/include/excpt.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
@@ -341,16 +341,16 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.c
  C:/msys64/ucrt64/include/playsoundapi.h \
  C:/msys64/ucrt64/include/mmeapi.h C:/msys64/ucrt64/include/timeapi.h \
  C:/msys64/ucrt64/include/joystickapi.h \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/src/SFML/Window/Win32/Utils.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/src/SFML/Window/Win32/Utils.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
  C:/msys64/ucrt64/include/c++/13.2.0/chrono \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/chrono.h \
  C:/msys64/ucrt64/include/c++/13.2.0/ratio \
  C:/msys64/ucrt64/include/c++/13.2.0/limits \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/parse_numbers.h \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Err.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Time.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Time.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Time.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Time.inl \
  C:/msys64/ucrt64/include/c++/13.2.0/algorithm \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_algo.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/algorithmfwd.h \

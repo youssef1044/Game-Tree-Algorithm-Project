@@ -65,17 +65,17 @@
 				{
 					"backtrace" : 4,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/vorbis-src/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/vorbis-src/include"
 				},
 				{
 					"backtrace" : 3,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/ogg-src/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/ogg-src/include"
 				},
 				{
 					"backtrace" : 3,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/ogg-build/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/ogg-build/include"
 				}
 			],
 			"language" : "C",

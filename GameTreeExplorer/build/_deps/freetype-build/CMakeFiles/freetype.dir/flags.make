@@ -11,7 +11,7 @@ C_FLAGS = -g -fvisibility=hidden
 
 RC_DEFINES = -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS
 
-RC_INCLUDES = -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\FREETY~3\include -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\FREETY~2\include -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\FREETY~3\include\freetype\config
+RC_INCLUDES = -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\FREETY~3\include -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\FREETY~2\include -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\FREETY~3\include\freetype\config
 
 RC_FLAGS = 
 

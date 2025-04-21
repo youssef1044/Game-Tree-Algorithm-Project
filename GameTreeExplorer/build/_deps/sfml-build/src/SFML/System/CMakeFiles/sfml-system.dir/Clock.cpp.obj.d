@@ -1,8 +1,8 @@
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj: \
- D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\System\Clock.cpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Export.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/Config.hpp \
+ D:\studies\year\ 2\Semester\ 2\Analysis\ of\ algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\System\Clock.cpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/Config.hpp \
  C:/msys64/ucrt64/include/c++/13.2.0/chrono \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/requires_hosted.h \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -32,8 +32,8 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/ext/numeric_traits.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/cpp_type_traits.h \
  C:/msys64/ucrt64/include/c++/13.2.0/ext/type_traits.h \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Time.hpp \
- D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Time.inl \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Time.hpp \
+ D:/studies/YEAR2~1/SEMEST~2/ANALYS~1/Project/Project/GAME-T~1/GAMETR~1/build/_deps/sfml-src/include/SFML/System/Time.inl \
  C:/msys64/ucrt64/include/c++/13.2.0/cassert \
  C:/msys64/ucrt64/include/assert.h \
  C:/msys64/ucrt64/include/c++/13.2.0/stdlib.h \

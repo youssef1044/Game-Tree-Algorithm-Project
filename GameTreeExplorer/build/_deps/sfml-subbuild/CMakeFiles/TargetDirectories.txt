@@ -1,3 +1,3 @@
-D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
-D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
-D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
+D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir

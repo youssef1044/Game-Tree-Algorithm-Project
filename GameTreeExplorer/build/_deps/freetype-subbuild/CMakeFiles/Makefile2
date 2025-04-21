@@ -53,10 +53,10 @@ RM = "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Common
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\freetype-subbuild"
+CMAKE_SOURCE_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\freetype-subbuild"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\freetype-subbuild"
+CMAKE_BINARY_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\freetype-subbuild"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/freetype-populate.dir/clean
 CMakeFiles/freetype-populate.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\freetype-populate.dir\build.make CMakeFiles/freetype-populate.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\freetype-populate.dir\build.make CMakeFiles/freetype-populate.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\freetype-subbuild\CMakeFiles" --progress-num=1,2,3,4,5,6,7,8,9 "Built target freetype-populate"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\freetype-subbuild\CMakeFiles" --progress-num=1,2,3,4,5,6,7,8,9 "Built target freetype-populate"
 .PHONY : CMakeFiles/freetype-populate.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/freetype-populate.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\freetype-subbuild\CMakeFiles" 9
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\freetype-subbuild\CMakeFiles" 9
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/freetype-populate.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\freetype-subbuild\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\freetype-subbuild\CMakeFiles" 0
 .PHONY : CMakeFiles/freetype-populate.dir/rule
 
 # Convenience name for target.

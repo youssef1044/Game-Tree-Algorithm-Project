@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/vorbis-src/lib/vorbisfile.c" "_deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.obj" "gcc" "_deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.obj.d"
+  "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/vorbis-src/lib/vorbisfile.c" "_deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.obj" "gcc" "_deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

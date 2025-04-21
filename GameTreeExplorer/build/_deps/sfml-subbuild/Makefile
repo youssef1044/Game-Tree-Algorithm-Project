@@ -56,10 +56,10 @@ RM = "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Common
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-subbuild"
+CMAKE_SOURCE_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-subbuild"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-subbuild"
+CMAKE_BINARY_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-subbuild"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-subbuild\CMakeFiles" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-subbuild\\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-subbuild\CMakeFiles" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-subbuild\\CMakeFiles\progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-subbuild\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-subbuild\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target

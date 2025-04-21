@@ -85,15 +85,15 @@
 			[
 				{
 					"backtrace" : 5,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/freetype-build/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/freetype-build/include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/freetype-src/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/freetype-src/include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/freetype-build/include/freetype/config"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/freetype-build/include/freetype/config"
 				}
 			],
 			"language" : "C",
@@ -163,15 +163,15 @@
 			[
 				{
 					"backtrace" : 5,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/freetype-build/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/freetype-build/include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/freetype-src/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/freetype-src/include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/freetype-build/include/freetype/config"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/freetype-build/include/freetype/config"
 				}
 			],
 			"language" : "RC",

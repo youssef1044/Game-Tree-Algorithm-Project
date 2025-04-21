@@ -235,32 +235,32 @@
 			[
 				{
 					"backtrace" : 13,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-src/src"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-src/src"
 				},
 				{
 					"backtrace" : 13,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-src/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-src/include"
 				},
 				{
 					"backtrace" : 14,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-src/extlibs/headers/stb_image"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-src/extlibs/headers/stb_image"
 				},
 				{
 					"backtrace" : 15,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-src/extlibs/headers/glad/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-src/extlibs/headers/glad/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/freetype-build/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/freetype-build/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/freetype-src/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/freetype-src/include"
 				}
 			],
 			"language" : "CXX",
@@ -407,32 +407,32 @@
 			[
 				{
 					"backtrace" : 13,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-src/src"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-src/src"
 				},
 				{
 					"backtrace" : 13,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-src/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-src/include"
 				},
 				{
 					"backtrace" : 14,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-src/extlibs/headers/stb_image"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-src/extlibs/headers/stb_image"
 				},
 				{
 					"backtrace" : 15,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-src/extlibs/headers/glad/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-src/extlibs/headers/glad/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/freetype-build/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/freetype-build/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/freetype-src/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/freetype-src/include"
 				}
 			],
 			"language" : "CXX",

@@ -207,12 +207,12 @@
 			[
 				{
 					"backtrace" : 11,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-src/src"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-src/src"
 				},
 				{
 					"backtrace" : 11,
 					"isSystem" : true,
-					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/build/_deps/sfml-src/include"
+					"path" : "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/build/_deps/sfml-src/include"
 				}
 			],
 			"language" : "CXX",

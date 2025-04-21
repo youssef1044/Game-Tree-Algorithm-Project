@@ -52,10 +52,10 @@ RM = "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Common
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer"
+CMAKE_SOURCE_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build"
+CMAKE_BINARY_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build"
 
 # Include any dependencies generated for this target.
 include _deps/ogg-build/CMakeFiles/ogg.dir/depend.make
@@ -72,31 +72,31 @@ _deps/ogg-build/CMakeFiles/ogg.dir/src/bitwise.c.obj: _deps/ogg-build/CMakeFiles
 _deps/ogg-build/CMakeFiles/ogg.dir/src/bitwise.c.obj: _deps/ogg-build/CMakeFiles/ogg.dir/includes_C.rsp
 _deps/ogg-build/CMakeFiles/ogg.dir/src/bitwise.c.obj: _deps/ogg-src/src/bitwise.c
 _deps/ogg-build/CMakeFiles/ogg.dir/src/bitwise.c.obj: _deps/ogg-build/CMakeFiles/ogg.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object _deps/ogg-build/CMakeFiles/ogg.dir/src/bitwise.c.obj"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\OGG-BU~1 && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/ogg-build/CMakeFiles/ogg.dir/src/bitwise.c.obj -MF CMakeFiles\ogg.dir\src\bitwise.c.obj.d -o CMakeFiles\ogg.dir\src\bitwise.c.obj -c "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\ogg-src\src\bitwise.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object _deps/ogg-build/CMakeFiles/ogg.dir/src/bitwise.c.obj"
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\OGG-BU~1 && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/ogg-build/CMakeFiles/ogg.dir/src/bitwise.c.obj -MF CMakeFiles\ogg.dir\src\bitwise.c.obj.d -o CMakeFiles\ogg.dir\src\bitwise.c.obj -c "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\ogg-src\src\bitwise.c"
 
 _deps/ogg-build/CMakeFiles/ogg.dir/src/bitwise.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/ogg.dir/src/bitwise.c.i"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\OGG-BU~1 && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\ogg-src\src\bitwise.c" > CMakeFiles\ogg.dir\src\bitwise.c.i
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\OGG-BU~1 && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\ogg-src\src\bitwise.c" > CMakeFiles\ogg.dir\src\bitwise.c.i
 
 _deps/ogg-build/CMakeFiles/ogg.dir/src/bitwise.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/ogg.dir/src/bitwise.c.s"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\OGG-BU~1 && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\ogg-src\src\bitwise.c" -o CMakeFiles\ogg.dir\src\bitwise.c.s
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\OGG-BU~1 && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\ogg-src\src\bitwise.c" -o CMakeFiles\ogg.dir\src\bitwise.c.s
 
 _deps/ogg-build/CMakeFiles/ogg.dir/src/framing.c.obj: _deps/ogg-build/CMakeFiles/ogg.dir/flags.make
 _deps/ogg-build/CMakeFiles/ogg.dir/src/framing.c.obj: _deps/ogg-build/CMakeFiles/ogg.dir/includes_C.rsp
 _deps/ogg-build/CMakeFiles/ogg.dir/src/framing.c.obj: _deps/ogg-src/src/framing.c
 _deps/ogg-build/CMakeFiles/ogg.dir/src/framing.c.obj: _deps/ogg-build/CMakeFiles/ogg.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object _deps/ogg-build/CMakeFiles/ogg.dir/src/framing.c.obj"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\OGG-BU~1 && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/ogg-build/CMakeFiles/ogg.dir/src/framing.c.obj -MF CMakeFiles\ogg.dir\src\framing.c.obj.d -o CMakeFiles\ogg.dir\src\framing.c.obj -c "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\ogg-src\src\framing.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object _deps/ogg-build/CMakeFiles/ogg.dir/src/framing.c.obj"
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\OGG-BU~1 && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/ogg-build/CMakeFiles/ogg.dir/src/framing.c.obj -MF CMakeFiles\ogg.dir\src\framing.c.obj.d -o CMakeFiles\ogg.dir\src\framing.c.obj -c "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\ogg-src\src\framing.c"
 
 _deps/ogg-build/CMakeFiles/ogg.dir/src/framing.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/ogg.dir/src/framing.c.i"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\OGG-BU~1 && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\ogg-src\src\framing.c" > CMakeFiles\ogg.dir\src\framing.c.i
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\OGG-BU~1 && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\ogg-src\src\framing.c" > CMakeFiles\ogg.dir\src\framing.c.i
 
 _deps/ogg-build/CMakeFiles/ogg.dir/src/framing.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/ogg.dir/src/framing.c.s"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\OGG-BU~1 && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\ogg-src\src\framing.c" -o CMakeFiles\ogg.dir\src\framing.c.s
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\OGG-BU~1 && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\ogg-src\src\framing.c" -o CMakeFiles\ogg.dir\src\framing.c.s
 
 # Object files for target ogg
 ogg_OBJECTS = \
@@ -110,19 +110,19 @@ _deps/sfml-build/lib/liboggd.a: _deps/ogg-build/CMakeFiles/ogg.dir/src/bitwise.c
 _deps/sfml-build/lib/liboggd.a: _deps/ogg-build/CMakeFiles/ogg.dir/src/framing.c.obj
 _deps/sfml-build/lib/liboggd.a: _deps/ogg-build/CMakeFiles/ogg.dir/build.make
 _deps/sfml-build/lib/liboggd.a: _deps/ogg-build/CMakeFiles/ogg.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C static library ..\sfml-build\lib\liboggd.a"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\OGG-BU~1 && $(CMAKE_COMMAND) -P CMakeFiles\ogg.dir\cmake_clean_target.cmake
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\OGG-BU~1 && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ogg.dir\link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C static library ..\sfml-build\lib\liboggd.a"
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\OGG-BU~1 && $(CMAKE_COMMAND) -P CMakeFiles\ogg.dir\cmake_clean_target.cmake
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\OGG-BU~1 && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ogg.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 _deps/ogg-build/CMakeFiles/ogg.dir/build: _deps/sfml-build/lib/liboggd.a
 .PHONY : _deps/ogg-build/CMakeFiles/ogg.dir/build
 
 _deps/ogg-build/CMakeFiles/ogg.dir/clean:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\OGG-BU~1 && $(CMAKE_COMMAND) -P CMakeFiles\ogg.dir\cmake_clean.cmake
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\OGG-BU~1 && $(CMAKE_COMMAND) -P CMakeFiles\ogg.dir\cmake_clean.cmake
 .PHONY : _deps/ogg-build/CMakeFiles/ogg.dir/clean
 
 _deps/ogg-build/CMakeFiles/ogg.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\ogg-src" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\ogg-build" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\ogg-build\CMakeFiles\ogg.dir\DependInfo.cmake" "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\ogg-src" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\ogg-build" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\ogg-build\CMakeFiles\ogg.dir\DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : _deps/ogg-build/CMakeFiles/ogg.dir/depend
 

@@ -52,10 +52,10 @@ RM = "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Common
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer"
+CMAKE_SOURCE_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build"
+CMAKE_BINARY_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build"
 
 # Include any dependencies generated for this target.
 include _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/depend.make
@@ -72,16 +72,16 @@ _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: _deps
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/includes_CXX.rsp
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: _deps/sfml-src/src/SFML/Main/MainWin32.cpp
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\SFML-B~1\src\SFML\Main && C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj -MF CMakeFiles\sfml-main.dir\MainWin32.cpp.obj.d -o CMakeFiles\sfml-main.dir\MainWin32.cpp.obj -c "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj"
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\SFML-B~1\src\SFML\Main && C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj -MF CMakeFiles\sfml-main.dir\MainWin32.cpp.obj.d -o CMakeFiles\sfml-main.dir\MainWin32.cpp.obj -c "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp"
 
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-main.dir/MainWin32.cpp.i"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\SFML-B~1\src\SFML\Main && C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp" > CMakeFiles\sfml-main.dir\MainWin32.cpp.i
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\SFML-B~1\src\SFML\Main && C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp" > CMakeFiles\sfml-main.dir\MainWin32.cpp.i
 
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-main.dir/MainWin32.cpp.s"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\SFML-B~1\src\SFML\Main && C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp" -o CMakeFiles\sfml-main.dir\MainWin32.cpp.s
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\SFML-B~1\src\SFML\Main && C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp" -o CMakeFiles\sfml-main.dir\MainWin32.cpp.s
 
 # Object files for target sfml-main
 sfml__main_OBJECTS = \
@@ -93,19 +93,19 @@ sfml__main_EXTERNAL_OBJECTS =
 _deps/sfml-build/lib/libsfml-main-s-d.a: _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj
 _deps/sfml-build/lib/libsfml-main-s-d.a: _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/build.make
 _deps/sfml-build/lib/libsfml-main-s-d.a: _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library ..\..\..\lib\libsfml-main-s-d.a"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\SFML-B~1\src\SFML\Main && $(CMAKE_COMMAND) -P CMakeFiles\sfml-main.dir\cmake_clean_target.cmake
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\SFML-B~1\src\SFML\Main && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\sfml-main.dir\link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library ..\..\..\lib\libsfml-main-s-d.a"
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\SFML-B~1\src\SFML\Main && $(CMAKE_COMMAND) -P CMakeFiles\sfml-main.dir\cmake_clean_target.cmake
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\SFML-B~1\src\SFML\Main && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\sfml-main.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/build: _deps/sfml-build/lib/libsfml-main-s-d.a
 .PHONY : _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/build
 
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/clean:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\SFML-B~1\src\SFML\Main && $(CMAKE_COMMAND) -P CMakeFiles\sfml-main.dir\cmake_clean.cmake
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\SFML-B~1\src\SFML\Main && $(CMAKE_COMMAND) -P CMakeFiles\sfml-main.dir\cmake_clean.cmake
 .PHONY : _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/clean
 
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\Main" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-build\src\SFML\Main" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\sfml-build\src\SFML\Main\CMakeFiles\sfml-main.dir\DependInfo.cmake" "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-src\src\SFML\Main" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-build\src\SFML\Main" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\sfml-build\src\SFML\Main\CMakeFiles\sfml-main.dir\DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/depend
 

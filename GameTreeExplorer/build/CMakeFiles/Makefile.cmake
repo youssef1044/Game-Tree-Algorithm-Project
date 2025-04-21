@@ -66,7 +66,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/TestBigEndian.cmake"
   "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/WriteBasicConfigVersionFile.cmake"
   "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Templates/CPackConfig.cmake.in"
-  "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/GameTreeExplorer/CMakeLists.txt"
+  "D:/studies/year 2/Semester 2/Analysis of algorithms/Project/Project/Game-Tree-Algorithm-Project/GameTreeExplorer/CMakeLists.txt"
   "CMakeFiles/3.29.5-msvc4/CMakeCCompiler.cmake"
   "CMakeFiles/3.29.5-msvc4/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.29.5-msvc4/CMakeRCCompiler.cmake"

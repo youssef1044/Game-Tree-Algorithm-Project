@@ -52,10 +52,10 @@ RM = "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Common
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer"
+CMAKE_SOURCE_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build"
+CMAKE_BINARY_DIR = "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build"
 
 # Include any dependencies generated for this target.
 include _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/depend.make
@@ -72,16 +72,16 @@ _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.obj: _deps/vorbis-
 _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.obj: _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/includes_C.rsp
 _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.obj: _deps/vorbis-src/lib/vorbisfile.c
 _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.obj: _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.obj"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\VORBIS~3\lib && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.obj -MF CMakeFiles\vorbisfile.dir\vorbisfile.c.obj.d -o CMakeFiles\vorbisfile.dir\vorbisfile.c.obj -c "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\vorbis-src\lib\vorbisfile.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.obj"
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\VORBIS~3\lib && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.obj -MF CMakeFiles\vorbisfile.dir\vorbisfile.c.obj.d -o CMakeFiles\vorbisfile.dir\vorbisfile.c.obj -c "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\vorbis-src\lib\vorbisfile.c"
 
 _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/vorbisfile.dir/vorbisfile.c.i"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\VORBIS~3\lib && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\vorbis-src\lib\vorbisfile.c" > CMakeFiles\vorbisfile.dir\vorbisfile.c.i
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\VORBIS~3\lib && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\vorbis-src\lib\vorbisfile.c" > CMakeFiles\vorbisfile.dir\vorbisfile.c.i
 
 _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/vorbisfile.dir/vorbisfile.c.s"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\VORBIS~3\lib && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\vorbis-src\lib\vorbisfile.c" -o CMakeFiles\vorbisfile.dir\vorbisfile.c.s
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\VORBIS~3\lib && C:\msys64\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\vorbis-src\lib\vorbisfile.c" -o CMakeFiles\vorbisfile.dir\vorbisfile.c.s
 
 # Object files for target vorbisfile
 vorbisfile_OBJECTS = \
@@ -93,19 +93,19 @@ vorbisfile_EXTERNAL_OBJECTS =
 _deps/sfml-build/lib/libvorbisfiled.a: _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/vorbisfile.c.obj
 _deps/sfml-build/lib/libvorbisfiled.a: _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/build.make
 _deps/sfml-build/lib/libvorbisfiled.a: _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library ..\..\sfml-build\lib\libvorbisfiled.a"
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\VORBIS~3\lib && $(CMAKE_COMMAND) -P CMakeFiles\vorbisfile.dir\cmake_clean_target.cmake
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\VORBIS~3\lib && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\vorbisfile.dir\link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library ..\..\sfml-build\lib\libvorbisfiled.a"
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\VORBIS~3\lib && $(CMAKE_COMMAND) -P CMakeFiles\vorbisfile.dir\cmake_clean_target.cmake
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\VORBIS~3\lib && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\vorbisfile.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/build: _deps/sfml-build/lib/libvorbisfiled.a
 .PHONY : _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/build
 
 _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/clean:
-	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\VORBIS~3\lib && $(CMAKE_COMMAND) -P CMakeFiles\vorbisfile.dir\cmake_clean.cmake
+	cd /d D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\VORBIS~3\lib && $(CMAKE_COMMAND) -P CMakeFiles\vorbisfile.dir\cmake_clean.cmake
 .PHONY : _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/clean
 
 _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\vorbis-src\lib" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\vorbis-build\lib" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\GameTreeExplorer\build\_deps\vorbis-build\lib\CMakeFiles\vorbisfile.dir\DependInfo.cmake" "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\vorbis-src\lib" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\vorbis-build\lib" "D:\studies\year 2\Semester 2\Analysis of algorithms\Project\Project\Game-Tree-Algorithm-Project\GameTreeExplorer\build\_deps\vorbis-build\lib\CMakeFiles\vorbisfile.dir\DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/depend
 

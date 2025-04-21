@@ -11,7 +11,7 @@ C_FLAGS = -Wall -Wextra -Wstrict-prototypes -Wmissing-prototypes -Waggregate-ret
 
 RC_DEFINES = -DFLAC__NO_DLL -DFLAC__OVERFLOW_DETECT -DHAVE_CONFIG_H -DNDEBUG -D_DARWIN_C_SOURCE -D_POSIX_PTHREAD_SEMANTICS -D_TANDEM_SOURCE -D__STDC_WANT_IEC_60559_BFP_EXT__ -D__STDC_WANT_IEC_60559_DFP_EXT__ -D__STDC_WANT_IEC_60559_FUNCS_EXT__ -D__STDC_WANT_IEC_60559_TYPES_EXT__ -D__STDC_WANT_LIB_EXT2__ -D__STDC_WANT_MATH_SPEC_FUNCS__
 
-RC_INCLUDES = -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\flac-src\include -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\FLAC-B~1 -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\flac-src\src\libFLAC\include -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\ogg-src\include -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAMETR~1\build\_deps\OGG-BU~1\include
+RC_INCLUDES = -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\flac-src\include -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\FLAC-B~1 -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\flac-src\src\libFLAC\include -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\ogg-src\include -I D:\studies\YEAR2~1\SEMEST~2\ANALYS~1\Project\Project\GAME-T~1\GAMETR~1\build\_deps\OGG-BU~1\include
 
 RC_FLAGS = 
 
